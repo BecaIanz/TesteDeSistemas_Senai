@@ -5,4 +5,4 @@ def area_triangulo(base, altura):
     return (base * altura) / 2
 
 def area_elipse(maior, menor):
-    return 3.14159 * maior * menor
+    return round((3.14159 * maior * menor), 4) 

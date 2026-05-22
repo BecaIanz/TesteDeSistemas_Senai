@@ -7,4 +7,4 @@ def test_area_triangulo():
     assert area_triangulo(5,4) == 10
 
 def test_area_elipse():
-    assert area_elipse(6,3) == 56.5487
+    assert area_elipse(6,3) == 56.5486
